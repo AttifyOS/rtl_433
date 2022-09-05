@@ -1,0 +1,8 @@
+[package_detail]
+name = "rtl_433"
+description = "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)"
+version = "21.12-146"
+source_url = "https://github.com/merbanan/rtl_433"
+license = "GPL-2.0"
+install_script = "setup.sh"
+install_script_type = "shell"
